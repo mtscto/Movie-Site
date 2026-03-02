@@ -1,0 +1,8 @@
+# Vs code setting
+.vscode/
+
+# OS files
+.DS_Store/
+
+# Future-proof
+node_modules/
